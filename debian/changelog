@@ -1,3 +1,18 @@
+python-pluggy (1.6.0-2) unstable; urgency=medium
+
+  * Team upload.
+  * debian/pybuild.testfiles: Remove blank line (closes: #1123290).
+
+ -- Colin Watson <cjwatson@debian.org>  Wed, 17 Dec 2025 17:21:14 +0000
+
+python-pluggy (1.6.0-1) unstable; urgency=medium
+
+  * New upstream version 1.6.0
+  * Wrap and sort Debian package files
+  * Bump Standards-Version to 4.7.2
+
+ -- Timo Röhling <roehling@debian.org>  Wed, 13 Aug 2025 12:22:09 +0200
+
 python-pluggy (1.5.0-1) unstable; urgency=medium
 
   * New upstream version 1.5.0
